@@ -166,7 +166,9 @@ video {
 }
 .alura,
 .portifolio,
-.aully {
+.aully,
+.alura__plus,
+.cantora__preferida {
     border: 2px solid var(--cor-terciaria);
     width: 70%;
     border-radius: 8px;
@@ -176,6 +178,7 @@ video {
     text-decoration: none;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
+    margin-bottom: 20px;
 }
 
 .rodape {
