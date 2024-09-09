@@ -164,9 +164,12 @@ video {
     padding-top: 100px;
     gap: 2rem;
 }
+
 .alura,
 .aully,
 .alura__plus,
+.alura_midi,
+.alura_books,
 .cantora__preferida {
     border: 2px solid var(--cor-terciaria);
     width: 70%;
