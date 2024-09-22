@@ -170,7 +170,8 @@ video {
 .alura__plus,
 .alura_midi,
 .alura_books,
-.cantora__preferida {
+.cantora__preferida,
+.lista-de-compras {
     border: 2px solid var(--cor-terciaria);
     width: 70%;
     border-radius: 8px;
